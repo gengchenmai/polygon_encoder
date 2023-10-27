@@ -1,0 +1,12 @@
+backoff==2.2.1
+Fiona==1.8.18
+geopandas==0.8.1
+matplotlib==3.3.3
+numpy==1.19.5
+pandas==1.2.0
+Requests==2.31.0
+scikit_learn==0.24.1
+Shapely==1.7.1
+torch==1.7.1+cu110
+torchvision==0.8.2+cu110
+tqdm==4.55.1

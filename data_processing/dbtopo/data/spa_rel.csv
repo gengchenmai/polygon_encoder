@@ -1,0 +1,14 @@
+http://dbpedia.org/ontology/isPartOf
+http://dbpedia.org/ontology/location
+http://dbpedia.org/ontology/locatedInArea
+http://dbpedia.org/property/location
+http://dbpedia.org/property/east
+http://dbpedia.org/property/south
+http://dbpedia.org/property/west
+http://dbpedia.org/property/north
+http://dbpedia.org/property/southwest
+http://dbpedia.org/property/northeast
+http://dbpedia.org/property/southeast
+http://dbpedia.org/ontology/nearestCity
+http://dbpedia.org/property/northwest
+http://dbpedia.org/ontology/mouthPlace
